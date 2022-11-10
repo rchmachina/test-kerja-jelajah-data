@@ -1,6 +1,6 @@
 
 
-buka cmd --> klik "gh repo clone rchmachina/test-kerja-jelajah-data"
+buka cmd --> klik "github clone rchmachina/test-kerja-jelajah-data"
 
 ## cara menginstall 
 
